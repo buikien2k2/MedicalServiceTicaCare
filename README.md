@@ -31,14 +31,17 @@ Medical Service TicaCare được phát triển với mục tiêu cung cấp m�
 3. Truy cập website tại: `http://localhost:3000`
 
 ## 📷 Hình ảnh giao diện
-Giao diện Sau khi đăng nhập
+### Giao diện Sau khi đăng nhập
 ![Image](https://github.com/user-attachments/assets/6a2e5fc2-c0f6-46ce-90ad-d45473593acf)
 
-Giao diện Tạo lịch hẹn
+### Giao diện Tạo lịch hẹn
 ![Image](https://github.com/user-attachments/assets/01b6772d-1211-40af-b4ad-29c4d714086f)
 
-Giao diện Đăng nhập và Kiểm tra sức khỏe
-![Image](https://github.com/user-attachments/assets/14ec0017-86ce-4c41-a0ea-120d645112fb)![Image](https://github.com/user-attachments/assets/052f940e-9066-4f9d-9586-6e659323d8c4)
+### Giao diện Đăng nhập 
+![Image](https://github.com/user-attachments/assets/14ec0017-86ce-4c41-a0ea-120d645112fb)
+
+### Giao diện kiểm tra sức khỏe đo lường lượng calories
+![Image](https://github.com/user-attachments/assets/052f940e-9066-4f9d-9586-6e659323d8c4)
 
 ## Thành viên thực hiện dự án
 - Bùi Nguyễn Trung Kiên
