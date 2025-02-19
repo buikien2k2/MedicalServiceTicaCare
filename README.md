@@ -3,15 +3,15 @@
 **Medical Service TicaCare** là một nền tảng quản lý dịch vụ chăm sóc sức khỏe trực tuyến, giúp bệnh nhân dễ dàng đặt lịch hẹn với bác sĩ và tiếp cận các dịch vụ y tế nhanh chóng.
 
 ## 🚀 Giới thiệu
-Medical Service TicaCare được phát triển với mục tiêu cung cấp một giải pháp tiện lợi cho bệnh nhân và bác sĩ trong việc đặt lịch hẹn, quản lý hồ sơ y tế và tư vấn trực tuyến. Website được xây dựng với công nghệ **HTML, CSS, JavaScript** và được tích hợp **Firebase** để quản lý.
+Medical Service TicaCare được phát triển với mục tiêu cung cấp một giải pháp tiện lợi cho bệnh nhân và bác sĩ trong việc đặt lịch hẹn, quản lý hồ sơ y tế và kiểm tra sức khỏe trực tuyến. Website được xây dựng với công nghệ **HTML, CSS, JavaScript** và được tích hợp **Firebase** để quản lý.
 
 ## 🎯 Tính năng chính
 - 📅 **Đặt lịch hẹn trực tuyến**: Bệnh nhân có thể dễ dàng đặt lịch hẹn với bác sĩ theo thời gian phù hợp.
 - 👨‍⚕️ **Hồ sơ bác sĩ**: Xem danh sách bác sĩ, chuyên môn và đánh giá từ bệnh nhân.
 - 🔎 **Tìm kiếm và lọc**: Cho phép tìm kiếm bác sĩ theo tên hoặc chuyên khoa
-- 💬 **Tư vấn trực tuyến**: Bệnh nhân có thể trao đổi với bác sĩ qua hệ thống chat hoặc video call.
+- 💬 **Chăm sóc sức khỏe trực tuyến**: Bệnh nhân có thể kiểm tra sức khỏe cũng như quản lý sức khỏe bản thân.
 - 📊 **Quản lý hồ sơ y tế**: Lưu trữ và theo dõi lịch sử khám bệnh, đơn thuốc và kết quả xét nghiệm.
-- 📈 **Thống kê & Báo cáo**: Hỗ trợ bác sĩ và bệnh viện theo dõi số lượng bệnh nhân, lịch hẹn và doanh thu.
+- 📈 **Phân quyền đăng nhập**: Phân quyền đăng nhập dễ dàng bảo mật thông tin khách hàng
 
 ## 🛠 Công nghệ sử dụng
 - **Frontend**: HTML/CSS, JavaScript, Bootstrap
@@ -26,10 +26,19 @@ Medical Service TicaCare được phát triển với mục tiêu cung cấp m�
    git clone https://github.com/buikien2k2/MedicalServiceTicaCare.git
    cd medical-service-ticacare
    ```
+2. Khởi chạy: mở file `index.html` 
 
-2. Truy cập website tại: `http://localhost:3000`
+3. Truy cập website tại: `http://localhost:3000`
 
 ## 📷 Hình ảnh giao diện
+Giao diện Sau khi đăng nhập
+![Image](https://github.com/user-attachments/assets/6a2e5fc2-c0f6-46ce-90ad-d45473593acf)
+
+Giao diện Tạo lịch hẹn
+![Image](https://github.com/user-attachments/assets/01b6772d-1211-40af-b4ad-29c4d714086f)
+
+Giao diện Đăng nhập và Kiểm tra sức khỏe
+![Image](https://github.com/user-attachments/assets/14ec0017-86ce-4c41-a0ea-120d645112fb)![Image](https://github.com/user-attachments/assets/052f940e-9066-4f9d-9586-6e659323d8c4)
 
 ## Thành viên thực hiện dự án
 - Bùi Nguyễn Trung Kiên
