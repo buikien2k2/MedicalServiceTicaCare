@@ -43,6 +43,9 @@ Medical Service TicaCare được phát triển với mục tiêu cung cấp m�
 ### Giao diện kiểm tra sức khỏe đo lường lượng calories
 ![Image](https://github.com/user-attachments/assets/052f940e-9066-4f9d-9586-6e659323d8c4)
 
+### Database firebase
+![Image](https://github.com/user-attachments/assets/9fb2d50d-2cb1-4d2c-bd96-a0a055debdd7)
+
 ## Thành viên thực hiện dự án
 - Bùi Nguyễn Trung Kiên
 - Hồ Viết Nam Hải
